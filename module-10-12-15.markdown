@@ -85,7 +85,7 @@
 * Mimi Schatz - Lessons in Refactoring: My Battle with the Cart
 * Ryan Asensio - Life as Code: An exploration of common themes.
 * Jeff Ruane - Quine Programs
-* Amber Crawford - Apps for Apes: Tech in the Zoo World
+* Amber Crawford - [Apps for Apes: Tech in the Zoo World](https://gist.github.com/amcrawford/09d511e86d1568c107c0)
 * Adam Caron - Why Sass Kicks Ass
 
 ##### Electives and Student-Led Sessions
